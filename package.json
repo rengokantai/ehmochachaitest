@@ -1,0 +1,27 @@
+{
+  "name": "ehmochachaitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0"
+  },
+  "scripts": {
+    "test": "mocha index.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rengokantai/ehmochachaitest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rengokantai/ehmochachaitest/issues"
+  },
+  "homepage": "https://github.com/rengokantai/ehmochachaitest"
+}
